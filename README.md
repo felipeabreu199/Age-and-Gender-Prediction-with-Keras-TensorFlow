@@ -44,7 +44,7 @@ Age-Gender-Prediction/
 │       └── utkface_aligned_cropped/   # aligned and cropped face images
 │
 ├── models/
-│   └── age_gender_model.h5            # trained model generated after training
+│   └── age_gender_model.h5            # trained model generated after training # you will have to train your own model, since the file is bigger than 25MB github didn't allowed me to post it here
 │
 ├── .gitignore                         # files and folders ignored by git
 ├── predict.py                         # script for making predictions using the trained model
