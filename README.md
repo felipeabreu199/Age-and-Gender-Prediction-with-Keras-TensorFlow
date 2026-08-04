@@ -81,3 +81,15 @@ for example
 ```python
 image_index = 42
 ```
+
+## Libraries
+
+os
+numpy
+matplotlib
+Pillow
+tensorflow
+pandas
+seaborn
+tqdm
+warnings
