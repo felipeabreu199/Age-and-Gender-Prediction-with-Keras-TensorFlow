@@ -1,15 +1,13 @@
 # Age and Gender Prediction with Keras & TensorFlow
----------------
+
 <img width="1414" height="2000" alt="ada" src="https://github.com/user-attachments/assets/5737c629-77e2-40fb-b676-82b090ba055f" />
----------------
+
 <img width="800" height="429" alt="ScreenRecording2026-08-03221309-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/0b2cc2f8-b9ce-4ef5-a997-177e8d51c36a" />
----------------
+
 
 A deep learning project that predicts **gender** and **age** from facial images using a Convolutional Neural Network (CNN).
 
 Built with TensorFlow/Keras and trained on the **UTKFace** dataset.
-
----
 
 ## Features
 
